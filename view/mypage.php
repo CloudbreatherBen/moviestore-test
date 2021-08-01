@@ -1,0 +1,1 @@
+HELLO <?=$this->username?>!!!

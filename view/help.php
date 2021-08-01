@@ -1,0 +1,1 @@
+Hello from help page. Here you can find some help.
